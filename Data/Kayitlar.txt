@@ -1,0 +1,5 @@
+Umut Sefkan;SAK;Erkek;05411456523;12345678912;umut@gmail.com;28/12/2022;30/12/2022;2;0;0;
+Samet;EROĞLU;erkek;05411452587;1234567891;samet@gmail.com;28/12/2022;30/12/2022;2;0;0;
+Esin;Döver;kadın;05346598545;45678912314;doveresin@gmail.com;28/12/2022;30/12/2022;2;0;0;
+Rojin;Pamuk;kadın;05326985478;12345678954;rojinpamuk@gmail.com;28/12/2022;30/12/2022;2;0;0;
+Yaren;Yalçınkaya;kadın;05344659878;46875423658;yaren@gmail.com;10.03.2022;17.03.2022;oda1;0;0;

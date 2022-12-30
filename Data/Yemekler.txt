@@ -1,0 +1,9 @@
+Kuşbaşı kebap;
+Levrek;
+Uskumru;
+Sushi;
+Döner;
+Akdeniz salatası;
+Midye;
+Karides;
+

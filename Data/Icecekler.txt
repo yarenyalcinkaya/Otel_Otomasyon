@@ -1,0 +1,7 @@
+*Kola;
+*Fanta;
+*Su;
+*Kokteyl;
+*Ayran;
+*Şalgam;
+
